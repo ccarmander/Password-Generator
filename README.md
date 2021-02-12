@@ -1,4 +1,4 @@
-# Homework-3-Password-Generator
+# Password-Generator
 
 This weeks project was to create a password generator that asked you to use 4 different types of characters to create a password.
 
